@@ -1,0 +1,23 @@
+{
+  "name": "vue-dragula",
+  "version": "1.0.0",
+  "description": "👌 Drag and drop so simple it hurts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostcode/vue-dragula.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostcode/vue-dragula/issues"
+  },
+  "homepage": "https://github.com/ghostcode/vue-dragula#readme",
+  "dependencies": {
+    "dragula": "^3.7.2"
+  }
+}
