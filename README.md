@@ -1,2 +1,3 @@
-# vue-dragula
-👌 Drag and drop so simple it hurts
+# Vue-dragula
+
+Not official for dragula,Not ready for production.
