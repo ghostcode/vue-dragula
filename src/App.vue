@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <h1><a href='https://github.com/bevacqua/dragula'><img src='./assets/logo.svg' alt='dragula'/></a></h1>
+    <h1><a href='https://github.com/ghostcode/vue-dragula'><img src='./assets/logo.svg' alt='dragula'/></a></h1>
     <h3 class='tagline'><span class='tagline-text'>Drag and drop so simple it hurts</span></h3>
-    <a href='https://github.com/bevacqua/dragula'>
+    <a href='https://github.com/ghostcode/vue-dragula'>
       <img class='gh-fork' src='https://camo.githubusercontent.com/52760788cde945287fbb584134c4cbc2bc36f904/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f77686974655f6666666666662e706e67' alt='Fork me on GitHub' data-canonical-src='https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png' />
     </a>
 
@@ -14,7 +14,7 @@
             <div id='left-defaults' class='container'>
               <div>You can move these elements between these two containers</div>
               <div>Moving them anywhere else isn't quite possible</div>
-              <div>Anything can be moved around. That includes images, <a href='https://github.com/bevacqua/dragula'>links</a>, or any other nested elements.
+              <div>Anything can be moved around. That includes images, <a href='https://github.com/ghostcode/vue-dragula'>links</a>, or any other nested elements.
               <div class='image-thing'><img src='./assets/icon.svg' onerror='this.src="resources/icon.png"' alt='dragula'/></div><sub>(You can still click on links, as usual!)</sub>
               </div>
             </div>
